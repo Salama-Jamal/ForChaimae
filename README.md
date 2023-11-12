@@ -1,2 +1,1 @@
-# ForChaimae
-This is my first repository as an ALX learner
+console.log("ALX")
